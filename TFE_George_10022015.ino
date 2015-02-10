@@ -78,7 +78,7 @@ int average = 0;                // the average
 
 void setup() {
  
-  // Serial.begin(9600);   debugging
+  Serial.begin(9600);   debugging
   // Print a Welcome message to the LCD.
   
   lcd.begin(2, 16); //type LCD display
