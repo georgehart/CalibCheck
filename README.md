@@ -1,11 +1,6 @@
-# CalibCheck
-## Audiometric Calibration Checker
+# Audiometer Calibration Checker
+TFE 2019
+<hr>
+Lucia De Borouckere - site Jules Ferry ( Alice Ninane & Maoudh Sheikairi)) 
 
-TFE 2014
-Lucia De Borouckere - site Jules Ferry ( Souffiane - Amadou ) 
-TFE 2015 (Amadou)
-
-Studie en realisatie ondermaats !
-Gregory : opdracht : realisatie microfoon +voorversterker : ondermaats (niets)
-
-realisatie George (Microcontroller deel - prototype ): Ok (Intensiteit Levels te ijken) 
+Scope
