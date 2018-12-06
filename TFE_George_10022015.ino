@@ -86,7 +86,7 @@ void setup() {
   lcd.setCursor(0, 0); 
   lcd.print("  AUDIOCHECKER  ");
   lcd.setCursor(0, 1); 
-  lcd.print("GH      jan 2015");
+  lcd.print("GH-2019    v:0.9 ");
 
   // set up the switch pin as an input
   pinMode(sw_select,INPUT);
@@ -435,7 +435,7 @@ int test(int x){
                     lcd.setCursor(2, 0);
                     lcd.print("AUDIOCHECKER");
                     lcd.setCursor(4, 1);
-                    lcd.print("Rel. 1.0");
+                    lcd.print("Rel. 0.9");
                     delay(debounce);
                   
                  break;
