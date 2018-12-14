@@ -1,10 +1,11 @@
 /*
 
-	*************************
-	* Project : LCD Display *
-	* Author  : George Hart *
-	* Date    : 25 jan 2015 *
-	*************************
+	***************************
+	* Project : LCD Display   *
+	* Author  : George Hart   *
+	* Date    : 25 jan 2015   *
+	* Update  : december 2019 * 
+	***************************
 
  	Parts required:
  		 		
@@ -84,7 +85,7 @@ void setup() {
   lcd.begin(2, 16); //type LCD display
   lcd.clear();
   lcd.setCursor(0, 0); 
-  lcd.print("  AUDIOCHECKER  ");
+  lcd.print("  AUDIOHECK  ");
   lcd.setCursor(0, 1); 
   lcd.print("GH-2019    v:0.9 ");
 
